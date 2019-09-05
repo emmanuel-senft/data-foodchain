@@ -35,5 +35,5 @@ left are the raw data and on the right the different test run to obtain the
 values reported in the paper.
 
 The other JASP files are used to compute the statistical similarities or
-differences between the timing between the ``eating event`` and each type of
+differences between the timing between the "eating event" and each type of
 action for the two active robots: supervised and autonomous.
