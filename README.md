@@ -11,7 +11,8 @@ Structure
 - Main file: analyse.ipynb
 - Data file 1: df.csv (game metrics and demographics)
 - Data file 2: supervisor.json (data for action selection)
-- JASP file for statistics: analysis.jasp
+- JASP file for statistics: analysis.jasp (d_eat corresponds to the number of 
+different eating interactions, i.e. the exposure to learning units)
 
 How to use:
 ----------
